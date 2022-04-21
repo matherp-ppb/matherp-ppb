@@ -4,6 +4,9 @@ Hellow World!
 ## Mac Book Rebuild 2022
 Port from https://confluence.app.betfair/display/~MatherP/Mac+book+Rebuild+2022
 
+### GeekTool
+https://www.tynsoe.org/geektool/
+
 ## Setup Docker Desktop & use for dev envs
 We have a license for Docker Desktop so can install as per https://medium.com/containers-101/local-kubernetes-for-mac-minikube-vs-docker-desktop-f2789b3cad3a
 
